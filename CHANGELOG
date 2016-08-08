@@ -1,0 +1,24 @@
+Version 1.0.0
+=============
+
+Firsr release includes tool CLI and the following attacks:
+
+- ARP Poisoning
+- MAC Flooding
+- Port Stealing
+- SNMP attacks
+
+Internal modifications
+----------------------
+
+- First release.
+
+Improvements and fixes
+----------------------
+
+- First release.
+
+New features
+------------
+
+- First release.
