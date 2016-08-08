@@ -48,13 +48,24 @@ You can display inline help writing:
 
 python netpyntest.py -h
 ```
+Usage examples:
+--------------
 
-Advanced options
-----------------
+  Use START commands with & to keep the prompt!
+```bash
+  python netpyntest.py mac_flooding   start -f PCAP_FILE [-i INTERFACE] &
+                                      stop
+                                      generate_pcap [-s SIZE]
+                                      
+  python netpyntest.py port_stealing  start -t TARGET -o OUTPUT [-i INTERFACE] &
+                                      stop
 
-There are the advanced options:
-
-- **-v**, **-vv**, **-vvv**: Enable verbose mode.
+  python netpyntest.py snmp           sniff [-i INTERFACE]
+                                      get -t TARGET -oid OID [-c COMMUNITY] [-i INTERFACE]
+                                      set -t TARGET -oid OID -v VALUE [-c COMMUNITY] [-i INTERFACE]
+                                      dictionary_attack -t TARGET -d DICTIONARY_FILE [-i INTERFACE]
+                                      dos -t TARGET -c COMMUNITY [-i INTERFACE]
+```
 
 References
 ----------
