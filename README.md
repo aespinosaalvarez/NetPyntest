@@ -1,10 +1,5 @@
-NetPyntest
-====
-
-
-![Logo](https://raw.githubusercontent.com/abirtone/STB/master/stb_lib/doc/images/logo.png)
-
-*NetPyntest: Network Pentesting Tool*
+NetPyntest: Network Pentesting Tool
+===================================
 
 Code | https://github.com/aespinosaalvarez/NetPyntest
 ---- | ----------------------------------------------
