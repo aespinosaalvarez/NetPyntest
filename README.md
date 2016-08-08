@@ -14,7 +14,14 @@ Python versions | Python 2 & 3
 What's NetPyntest
 -----------
 
-NetPyntest is a network pentesting tool that allows to perform some attacks.
+NetPyntest is a network pentesting tool that allows to perform some attacks:
+
+Mac Flooding attack.
+
+Port Stealing attack.
+
+SNMP dictionary attack and sniffer for getting the communities strings.
+DoS attack via SNMP.
 
 What's new?
 -----------
