@@ -68,3 +68,9 @@ References
 
 * OMSTD (Open Methodology for Security Tool Developers): http://omstd.readthedocs.org
 * STB (Security Tool Builder): https://github.com/abirtone/STB 
+
+Author
+------
+(C) Alejandro Espinosa Alvarez
+LICENSED AS FreeBSD
+USE AT YOUR OWN RISK
